@@ -1,0 +1,24 @@
+{
+  "name": "react-dsbykov-components",
+  "version": "1.0.0",
+  "description": "Library react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BykovDenis/react-dsbykov-components.git"
+  },
+  "keywords": [
+    "library",
+    "react",
+    "components"
+  ],
+  "author": "Denis Bykov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BykovDenis/react-dsbykov-components/issues"
+  },
+  "homepage": "https://github.com/BykovDenis/react-dsbykov-components#readme"
+}
