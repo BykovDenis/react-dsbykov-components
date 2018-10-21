@@ -14,7 +14,9 @@ module.exports = {
   },
   externals: {
     'react': 'React',
-    'react-dom': 'ReactDOM'
-  },                        
+    'react-dom': 'ReactDOM',
+    '@material-ui/core': '@material-ui/core',
+    'prop-types': 'prop-types',
+  },
   devtool: "source-map"
 };
